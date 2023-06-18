@@ -1,6 +1,6 @@
 # DSA_INTERVIEW
 
-this repository has collection of DAS interview questions
+This repository contains a collection of DAS interview questions.
 
 1. Verify a prime number?
 2. Find all prime factors of a number?
